@@ -1,0 +1,22 @@
+.divcontainer{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 250px;
+    width: 300px;
+    margin-bottom: 30px ;
+    justify-content: center;
+    padding-left: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+img{
+    border: 1px solid black;
+    width: 150px;
+    height: 100px;
+}
